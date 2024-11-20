@@ -1,6 +1,6 @@
 
 
-[![defo4396](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/defo4396)
+[![defo4396](https://img.shields.io/badge/defo4396-github-blue?logo=github)](https://github.com/defo4396)
 
 He is currently pursuing a Master's Degree in Applied Economics, at Renmin Business School, Renmin University of China.
 
