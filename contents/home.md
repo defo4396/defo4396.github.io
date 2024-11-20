@@ -8,8 +8,8 @@ He is currently pursuing a Master's Degree in Applied Economics, at Renmin Busin
 defo4396[at]gmail.com
 
 #### Education
-M.E., Economics, Renmin University of China, 2024—2027 (expected).\
-B.E., Accounting, Weifang University, 2018—2022.
+M.A., Applied Economics, Renmin University of China, 2024—2027 (expected).\
+B.S., Accounting, Weifang University, 2018—2022.
 
 #### Research Interests
 International Trade, Industrial Organization.
