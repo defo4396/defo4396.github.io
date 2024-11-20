@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![defo4396](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/defo4396)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Applied Economics, at Renmin Business School, Renmin University of China.
 
 #### Email
-sli[at]cumt.edu.cn
+defo4396[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Economics, Renmin University of China, 2024—2027 (expected).\
+B.E., Accounting, Weifang University, 2018—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+International Trade, Industrial Organization.
 
