@@ -9,7 +9,7 @@ defo4396[at]gmail.com
 
 #### Education
 M.A., Applied Economics, Renmin University of China, 2024—2027 (expected).\
-B.S., Accounting, Weifang University, 2018—2022.
+B.A., Accounting, Weifang University, 2018—2022.
 
 #### Research Interests
 International Trade, Industrial Organization.
